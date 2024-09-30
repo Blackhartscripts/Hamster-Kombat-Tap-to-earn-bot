@@ -6,9 +6,9 @@ Create a tap to earn bot similar to hamster kombat, memefi with pro features. Ea
 
 Are you eager to launch your own Custom Tap-to-Earn Bot/Game but want to avoid the high costs and time commitment of development and maintenance? Look no further! Blackhart is here to assist with your product implementation so you can concentrate on marketing and sales.
 
-![Custom Tap-to-Earn Bot GitHub Image](/images/tapswap.jpg "White Label TapSwap | GitHub")
+![Custom Tap-to-Earn Bot GitHub Image](/tapswap.jpg "White Label TapSwap | GitHub")
 
-![Telegram Custom Tap-to-Earn Games GitHub Image](/images/2.jpg "Telegram Custom Tap-to-Earn Games | GitHub")
+![Telegram Custom Tap-to-Earn Games GitHub Image](/2.jpg "Telegram Custom Tap-to-Earn Games | GitHub")
 
 ## Functionality
 ### Available options
@@ -23,14 +23,14 @@ Are you eager to launch your own Custom Tap-to-Earn Bot/Game but want to avoid t
 - Supports multiple blockchain networks, including: Ethereum, BSC (BNB Chain), Solana, Polygon, and Telegram's native chain, The Open Network (TON). Custom chain on request.
 - <b>Additional options can be developed on request</b>
 
-![Telegram Custom Tap-to-Earn Sample Mockup](/images/3.jpg "Telegram Custom Tap-to-Earn Game Mockup | GitHub")
+![Telegram Custom Tap-to-Earn Sample Mockup](/3.jpg "Telegram Custom Tap-to-Earn Game Mockup | GitHub")
 
 
 
 ## Pricing
 Our  Custom Tap-to-Earn Game Clone is offered with three pricing tiers:
 
-[![Blackhart Special Offers](/images/5.jpg)](a08121223324@gmail.com)
+[![Blackhart Special Offers](/5.jpg)](a08121223324@gmail.com)
 
 Contact us to find out more about our pricing options and to discuss a custom package that meets your specific requirements.
 
