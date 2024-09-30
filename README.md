@@ -1,10 +1,10 @@
 # Hamster-Kombat-Tap-to-earn-bot
 Create a tap to earn bot similar to hamster kombat, memefi with pro features. Easy interactions, Code can be edited to suit your needs and audience..
-# Build and Launch Your Own Custom Custom Tap-to-earn Telegram Bot with CommunityJuice
+# Build and Launch Your Own Custom Custom Tap-to-earn Telegram Bot with Blackhart scripts
 
 ### Custom Tap-to-Earn Telegram Bot | Telegram Mini App
 
-Are you eager to launch your own Custom Tap-to-Earn Bot/Game but want to avoid the high costs and time commitment of development and maintenance? Look no further! CommunityJuice is here to assist with your product implementation so you can concentrate on marketing and sales.
+Are you eager to launch your own Custom Tap-to-Earn Bot/Game but want to avoid the high costs and time commitment of development and maintenance? Look no further! Blackhart is here to assist with your product implementation so you can concentrate on marketing and sales.
 
 ![Custom Tap-to-Earn Bot GitHub Image](/images/tapswap.jpg "White Label TapSwap | GitHub")
 
@@ -38,7 +38,7 @@ Contact us to find out more about our pricing options and to discuss a custom pa
 
 Contact us, and we'll answer all your questions and explain your potential game in detail:
 
-- <a href="https://t.me/communityjuicelabs" target="_blank">Telegram Channel</a>
+- <a href="https://t.me/blackhartscripts" target="_blank">Telegram Channel</a>
 - [Our Email : a08121223324@gmail.com)
 
 ## Frequently asked questions
