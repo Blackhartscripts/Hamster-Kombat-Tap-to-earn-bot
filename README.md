@@ -6,7 +6,7 @@ Create a tap to earn bot similar to hamster kombat, memefi with pro features. Ea
 
 Are you eager to launch your own Custom Tap-to-Earn Bot/Game but want to avoid the high costs and time commitment of development and maintenance? Look no further! Blackhart is here to assist with your product implementation so you can concentrate on marketing and sales.
 
-![Custom Tap-to-Earn Bot GitHub Image](/tapswap.jpg "White Label TapSwap | GitHub")
+![Custom Tap-to-Earn Bot GitHub Image](tapswap.jpg "White Label TapSwap | GitHub")
 
 ![Telegram Custom Tap-to-Earn Games GitHub Image](/2.jpg "Telegram Custom Tap-to-Earn Games | GitHub")
 
